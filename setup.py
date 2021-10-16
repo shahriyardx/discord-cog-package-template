@@ -22,6 +22,6 @@ setup(
     license="MIT",
     classifiers=classifiers,
     python_requires=">=3.8.0",
-    keywords="discord discord.py nextcord.py nextcord",
+    keywords="your keywords",
     packages=find_packages(),
 )
