@@ -2,7 +2,7 @@
 The long description about the package
 
 ### Usage 
-- Clone this repository and change folder name of `package` to the name you want on pypi, it will also be the `load_extension('name')`
+- Clone this repository and change folder name of `package` to the name you want to be used to load the extension `load_extension('name')`
 - Modify the cog and setup.py with required info. 
     - The name in setup.py can be different from package name, that name will be used to install the package not to load if thats different.
     - Change the required python version for your package.
